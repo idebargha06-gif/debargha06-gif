@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Deb
 
-Building **Immersed** — a real-time focus tracking platform.
+Building **Immersed** — a focus app that actually knows when you're distracted.
 
 🔗 Live: https://getimmersed.in
 
