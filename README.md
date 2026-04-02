@@ -1,61 +1,43 @@
-# 👋 Hey, I'm Deb
+# 👋 Hey, I'm Debargha
 
-Building **Immersed** — a focus app that actually knows when you're distracted.
-
-🔗 Live: https://getimmersed.in
-
----
-
-## 🚀 What is Immersed?
-
-Most focus apps just run timers.
-
-Immersed actually tracks:
-- whether you're focused
-- when you get distracted
-- how consistent you are
-
-You earn points for staying focused and lose them when you drift.
+🚀 Building **Immersed** — a real-time focus & productivity platform  
+👉 https://getimmersed.in  
 
 ---
 
-## ⚡ Features
+## 🔥 What I'm building
+Immersed helps you stay focused by tracking real-time behavior — not just timers.
 
-- 🎯 Real-time focus tracking  
-- 🚫 Distraction detection  
-- 🧠 Focus score (%)  
-- 🏆 Leaderboards  
+- 🧠 Distraction detection system  
+- 📊 Focus score based on actual activity  
+- 🏆 Leaderboards & gamified productivity  
 - 👥 Live focus rooms  
-- 🎧 Ambient sounds  
 
 ---
 
-## 🧠 Why I built this
-
-I got tired of fake productivity tools.
-
-I wanted something that:
-- actually tracks attention  
-- adds accountability  
-- makes focus competitive  
+## ⚡ Why I’m building this
+Most focus apps track *time*.  
+I’m building something that tracks *actual focus*.
 
 ---
 
-## 📌 Current focus
-
-Improving:
-- user experience  
-- retention  
-- real-world usage  
+## 🛠 Tech Stack
+JavaScript • Firebase • Real-time systems • Web apps  
 
 ---
 
-## 💬 Feedback
+## 🌱 Building in public
+Sharing progress, ideas, and experiments as I build.
 
-If you try it, tell me what sucks.
-
-That helps more than praise.
+👉 Follow: https://x.com/deb__06
 
 ---
 
-⭐ Star the repo if you like the idea
+## 🚀 Project
+- 🔥 Immersed → https://getimmersed.in  
+
+---
+
+## 📫 Connect
+- Twitter: https://x.com/deb__06
+- GitHub: https://github.com/debargha06-gif
